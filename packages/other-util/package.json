@@ -1,0 +1,11 @@
+{
+  "name": "@private-namespace/other-util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.7",
+    "@private-namespace/util": "=1.0.0"
+  }
+}

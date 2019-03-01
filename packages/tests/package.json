@@ -1,0 +1,19 @@
+{
+  "name": "@private-namespace/tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "esm": "^3.2.7",
+    "@private-namespace/util": "=1.0.0",
+    "@private-namespace/other-util": "=1.0.0",
+    "jest": "^24.1.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
