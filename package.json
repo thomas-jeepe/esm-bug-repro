@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 {
   "private": true,
   "workspaces": [
     "packages/*"
   ]
 }
-=======
-{
-  "private": true,
-  "workspaces": [
-    "packages/*"
-  ]
-}
->>>>>>> 1070460fcf2c625535a170a95dd2cf586a978409
